@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 👋 Hey, I’m Abdullah<br>
 <br>Highly motivated, self-taught Full-Stack Developer with proven ability to architect and build complex applications from the ground up. Proficient across the entire stack, from backend development with Python/Django/Node, database management with sqlite3 or PostgreSQ with plugins, cache layers like Redis, sync layers like electricSQL, to modern frontend development with React/TypeScript. Passionate about turning complex workflows into scalable, user-friendly tools.
 
