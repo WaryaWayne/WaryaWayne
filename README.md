@@ -1,5 +1,5 @@
 👋 Hey, I’m Abdullah<br>
-<br>Highly motivated, self-taught Full-Stack Developer with proven ability to architect and build complex applications from the ground up. Proficient across the entire stack, from backend development with Python/Django/Node, database management with sqlite3 or PostgreSQ with plugins, cache layers like Redis, sync layers like electricSQL, to modern frontend development with React/TypeScript. Passionate about turning complex workflows into scalable, user-friendly tools.
+<br>Highly motivated, self-taught Full-Stack Developer with proven ability to architect and build complex applications from the ground up. Proficient across the entire stack, from backend development with Python / Django / Node, database management with sqlite3 or PostgreSQ with plugins like pgbouncer, cache layers like Redis, sync layers like electricSQL, to modern frontend development with React/TypeScript. Passionate about turning complex workflows into scalable, user-friendly tools.
 
 <br>• A proven self-starter with exceptional discipline and grit.
 <br>• A practical problem-solver who learns by building, not just by reading.
@@ -27,7 +27,7 @@
 <br> • Managing Ubuntu VPS using only SSH and Vim
 <br>
 <br>💬 Ask me about
-<br> • Django, REST, APIs, data management (JSON, XML, form-encoded).
+<br> • Django, REST APIs, data management (JSON, XML, form-encoded).
 <br> • React, browser APIs, caching layers, and real-time sync.
 <br> • Product building by turning messy workflows into usable tools.
 <br>
